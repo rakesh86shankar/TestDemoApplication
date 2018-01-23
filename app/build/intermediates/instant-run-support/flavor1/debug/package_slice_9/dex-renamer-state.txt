@@ -1,0 +1,4 @@
+#Thu Jan 04 11:57:17 IST 2018
+base.0=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\flavor1\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\flavor1\\debug\\folders\\1000\\5\\slice_9\\classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Rakesh\Android\TestDemoApplication\app\src\main\jniLibs"/></dataSet><dataSet config="flavor1"><source path="D:\Rakesh\Android\TestDemoApplication\app\src\flavor1\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Rakesh\Android\TestDemoApplication\app\src\debug\jniLibs"/></dataSet><dataSet config="flavor1Debug"><source path="D:\Rakesh\Android\TestDemoApplication\app\src\flavor1Debug\jniLibs"/></dataSet></merger>

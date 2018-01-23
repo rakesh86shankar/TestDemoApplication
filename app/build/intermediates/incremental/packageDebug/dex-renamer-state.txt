@@ -1,0 +1,7 @@
+#Wed Jan 03 17:04:07 IST 2018
+base.0=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4ed305667342b02fc308258e8d98d8ba53a0bf9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48e09946628cf492e75f08c99386b74ab8d12c25\\classes.dex
+base.1=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_48e09946628cf492e75f08c99386b74ab8d12c25
+file.0=D\:\\Rakesh\\Android\\TestDemoApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4ed305667342b02fc308258e8d98d8ba53a0bf9\\classes.dex
